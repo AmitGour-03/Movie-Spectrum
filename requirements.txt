@@ -7,3 +7,5 @@ Pylance
 nltk
 streamlit
 requests
+gunicorn 
+joblib
