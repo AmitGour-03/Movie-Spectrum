@@ -1,0 +1,5 @@
+venv
+
+apiKey = "315afe2aab27834565fda3fa1d8a50a8"   # from TMDB website (my account)
+
+Python version: 3.11
